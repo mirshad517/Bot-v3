@@ -30,9 +30,11 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Robot
+➥ Name :  Telegram bot
     
 ➥ Creator : @dev_mirshad
+
+➥ Project :Soon
 
 ➥ Language : Python3
 
