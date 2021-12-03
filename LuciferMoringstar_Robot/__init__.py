@@ -25,17 +25,24 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+@dev_mirshad
+
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Robot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : @dev_mirshad
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Support : [Click Me](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
+
+➥ Maintenance : Amal,Noufal
+
+ഇതു പോലെയുള്ള bot നിങ്ങൾക്ക് ആവശ്യമുണ്ടങ്കിൽ കോൺടാക്ട് ചെയ്യൂ
+➥ [Contact](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
+
 """
